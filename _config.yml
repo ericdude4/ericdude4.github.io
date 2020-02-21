@@ -60,3 +60,7 @@ topics:
   - name: Ember.js
     web_url: https://github.com/emberjs/ember.js
     image_url: https://emberjs.com/images/brand/ember_Tomster-Lockup.png
+
+  - name: Svelte
+    web_url: https://github.com/sveltejs/svelte
+    image_url: https://svelte.dev/svelte-logo-outline.svg
