@@ -1,4 +1,4 @@
-# ericdude4 personal website
+# Ericdude4 personal website
 
 ### Built using [GitHub personal website](https://github.com/github/personal-website)
 
@@ -102,7 +102,7 @@ Your website supports linking and sharing to social media services you're using,
 ```
 social_media:
   behance: your_username
-  dribbble: your_username  
+  dribbble: your_username
   facebook: your_username
   hackerrank: your_username
   instagram: your_username
